@@ -17,13 +17,13 @@ canvas
 
 @keyframes example
 {
-    from {box-shadow: 1px 1px 38px rgb(103, 122, 146);}
-    to {box-shadow: 1px 1px 38px rgb(90, 142, 167);}
+    from {box-shadow: 1px 1px 38px rgb(59, 70, 83);}
+    to {box-shadow: 1px 1px 38px rgb(213, 240, 253);}
 }
 
 button
 {
-    background-color: rgb(168, 187, 212);
+    background-color: rgb(208, 224, 245);
     border-color: rgb(161, 161, 226);
     border-radius: 6px;
     color: #47575e;
